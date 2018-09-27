@@ -11,6 +11,7 @@ namespace GitRep1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello GIT");
+            Console.WriteLine("change file");
             Console.Read();
         }
     }
