@@ -13,6 +13,7 @@ namespace GitRep1
             Console.WriteLine("Hello GIT");
             Console.WriteLine("change file");
             Console.WriteLine("real git");
+            Console.WriteLine("change2");
             Console.Read();
         }
     }
